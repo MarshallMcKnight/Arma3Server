@@ -1,2 +1,0 @@
-@echo off
-start "" "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\arma3server_x64.exe" -port=2302 "-config=C:\Program Files (x86)\Steam\steamapps\common\Arma 3\Server\IA\config.cfg" "-cfg=C:\Program Files (x86)\Steam\steamapps\common\Arma 3\Server\IA\basic.cfg" "-profiles=C:\Program Files (x86)\Steam\steamapps\common\Arma 3\Server\IA" -name=IA -filePatching -autoInit "-servermod=@Apex"
